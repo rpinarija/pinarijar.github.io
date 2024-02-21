@@ -2,6 +2,7 @@
 
 ### Education
 B.S., Statistics | Utah Valley University (May 2021)
+
 A.S., Mathematics | Utah Valley University (May 2021)
 
 ### Work Experience
