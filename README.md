@@ -1,9 +1,8 @@
 # Data Analyst
 
 ### Education
-B.S., Statistics | Utah Valley University (May 2021)
-
-A.S., Mathematics | Utah Valley University (May 2021)
+- B.S., Statistics | Utah Valley University (May 2021)
+- A.S., Mathematics | Utah Valley University (May 2021)
 
 ### Work Experience
 Data Analyst @ Gadzoom (August 2022 - Present)
